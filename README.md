@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frosty-bsd
-- 👀 Software Engineer & Cyber Security Specialist. Full Stack Web Dev.
+- 👀 Software Engineer & Cyber Security Specialist.
 
 
 <!---
